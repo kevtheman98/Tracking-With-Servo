@@ -1,4 +1,4 @@
-Object Tracking using OpenCv with python and Elagoo super started kit
+Object Tracking with servo and ultrasonic sensor using OpenCv with python and Elagoo super started kit
 
 This is my first somewhat major project with the Elagoo super starter kit, the main things I learned with how to use the microcontroller and the various functionns from the arduino ide and OpenCv for object tracking with python. 
 
