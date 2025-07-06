@@ -1,6 +1,6 @@
 Object Tracking with servo and ultrasonic sensor using OpenCv with python and Elagoo super started kit
 
-This is my first somewhat major project with the Elagoo super starter kit, the main things I learned with how to use the microcontroller and the various functions from the Arduino IDE and OpenCv for object tracking with python. 
+This is my first major project with the Elagoo super starter kit, the main things I learned with how to use the microcontroller and the various functions from the Arduino IDE and OpenCv for object tracking with python. 
 
 Objective-
 The camera tracks the top half of the frame and measures the angle between the center/motor and the object this is shown by the red line. The python file sends the angle that it calculated to the microcontroller and that tells the motor where to go. This also updates the LCD display with the angle it is currently at and the distance the object is from the motor.
