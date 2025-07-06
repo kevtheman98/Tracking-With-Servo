@@ -15,7 +15,7 @@ Ultrasonic Sensor
 Two Pens
 
 Learned-
-I used Paul Mchorters youtube tutorials for the hardware side and then used opencv docs and other youtube videos for the software side. I spent a lot of time trying to make it work with the stepper motor but without knowing the position of the motor I realized that the servo was a much easier and better option for this project. I also was at first overwhelmed with the amount of different things you can do with opencv, eventually figured out the drawing the countours and using .moments to find the centroid was the key for this project.
+I used Paul Mchorters youtube tutorials for the hardware side and then used opencv docs and other youtube videos for the software side. I spent a lot of time trying to make it work with the stepper motor but without knowing the position of the motor I realized that the servo was a much easier and better option for this project. I also was at first overwhelmed with the amount of different things you can do with opencv, eventually figured out that drawing the countours and using .moments to find the centroid was the key for this project.
 
 
 <video src="https://github.com/user-attachments/assets/2b3aa77e-80a5-498f-8e86-c220a2965edc" width=100 length=100></video>
